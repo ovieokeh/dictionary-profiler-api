@@ -1,0 +1,26 @@
+.input {
+  background-color: #f6f6f8;
+  padding: 16px;
+  text-align: center;
+}
+
+.input__span {
+  color: #17204f;
+}
+
+.input__field {
+  background: #f1f1f7;
+  border-radius: 6px;
+  border-style: solid;
+  border: 1px solid #e9e9f1;
+  color: #666685;
+  font-size: 16px;
+  padding: 8px;
+  margin: 0 16px;
+  outline: none;
+  transition: background 300ms ease;
+}
+
+.input__field:focus {
+  background: #fff;
+}
