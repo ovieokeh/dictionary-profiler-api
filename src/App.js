@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <SearchWord />
 
-      <a className="source-link" href="https://github.com">
+      <a className="source-link" href="https://github.com/ovieokeh/dictionary-profiler-api">
         Link to source code
       </a>
     </div>
