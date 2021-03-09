@@ -1,0 +1,9 @@
+.container {
+  box-shadow: -4px 5px 20px 0 rgb(217, 217, 226);
+  border-radius: 20px;
+  max-width: 700px;
+  margin: 10% auto;
+  margin-bottom: 32px;
+  overflow: hidden;
+  width: 100%;
+}
